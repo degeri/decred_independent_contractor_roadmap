@@ -2,4 +2,10 @@
 
 [INSERT SOME GOOD TEXT]
 
-### Degeri
+### Degeri:
+
+para1
+
+para2
+
+
