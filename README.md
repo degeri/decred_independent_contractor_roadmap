@@ -1,5 +1,7 @@
 # Decred Independent Contractor Roadmap
 
+[WRITE ABOUT, 1. Why this roadmap, 2.Explain this is not a full list, 3. People are not bound to what they say here, 4. How community can provide feedback]
+
 
 
 ### bee:
