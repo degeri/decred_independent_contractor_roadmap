@@ -30,13 +30,21 @@ I will also continue helping out the community wherever possible both offline an
 
 
 BR - https://www.instagram.com/decredbr/ 
+
 BR - https://twitter.com/decred_br	
+
 BR - https://www.meetup.com/pt-BR/DecredBrasil/ 
+
 BR - https://www.youtube.com/c/DecredBrasilOficial	
+
 BR (as admin with support) - https://t.me/decredbr
+
 CA - https://twitter.com/decred_ca	
+
 CA - https://www.meetup.com/Decred-GTA/ 
+
 CA - https://www.facebook.com/groups/503331090141062/ 
+
 CA - (I have the permission to publish articles about Decred in crypto portal) - https://cryptocanucks.com/
 Global (test) - https://twitter.com/decredexplorer 
 
