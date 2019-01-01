@@ -2,12 +2,12 @@
 
 ### Michae2xl:
 
-* Continue producing Weekly Video for Brazilian Community (Youtube Channel) and Continue help Emilio in brazilians channels. 
-* Continue supporting newcomers (BR,CA) and slacks invites.
-* More Meetups in 2019 in Canada-Toronto and if as possible support in Brazil as well.
-* Building an organic community in Canada, partners, markets and continue helping out the every Decred community (offline, online and in person as well).
-* (test) I'm thinking in separate features as media's (e.g twitter/decredexplorer) or something like that to find differents ways for people learn about Decred, like a thought structure, so everyone can choose each feature to see first (study the feature like a project and unified later (e.g atomic swap, politeia, spv, dcrdata, decrediton, etc), for the first impact using the docs.decred.org.
-* Continue manage all media's below and anothers channels as possible to help, improves contents, to use key words (suggetions that I saw in channels), bring more connections like volunteers, devs, holders, so they can help us to growth our community and network (natural process).
+Continue producing Weekly Video for Brazilian Community (Youtube Channel) and Continue help Emilio in brazilians channels. 
+Continue supporting newcomers (BR,CA) and slacks invites.
+More Meetups in 2019 in Canada-Toronto and if as possible support in Brazil as well.
+Building an organic community in Canada, partners, markets and continue helping out the every Decred community (offline, online and in person as well).
+(test) I'm thinking in separate features as media's (e.g twitter/decredexplorer) or something like that to find differents ways for people learn about Decred, like a thought structure, so everyone can choose each feature to see first (study the feature like a project and unified later (e.g atomic swap, politeia, spv, dcrdata, decrediton, etc), for the first impact using the docs.decred.org.
+Continue manage all media's below and anothers channels as possible to help, improves contents, to use key words (suggetions that I saw in channels), bring more connections like volunteers, devs, holders, so they can help us to growth our community and network (natural process).
 
 
 BR - https://www.instagram.com/decredbr/ 
