@@ -19,6 +19,12 @@ The [Bug bounty proposal](https://proposals.decred.org/proposals/d33a2667469b569
 
 I will also continue helping out the community wherever possible both offline and online. :slightly_smiling_face: 
 
+### elian:
+
+My main contribution to Decred in the past 6 months has been organizing meetups for the crypto community in Mexico, connecting with exchanges in Latam and translating basic content for the Spanish speaking audience.
+
+2019 will be a great year to continue expanding Decred outreach in Mexico and Latam. There are already plans for the next 3 meetups in Mexico City for January, February, and March. In April we will have an expo booth in Talent Land 2019, the biggest tech expo in Mexico and Latam where we are expecting to show the project to more than 33k attendees. I have started conversations with 5 exchanges in Latam in order to have DCR listed this year against MXN, ARS, CLP, and COP. I will continue managing the twitter account @Decred_MX (https://twitter.com/decred_mx) and the Medium Decred en Español (https://medium.com/@decred_es), for fundamental readings and information of Decred in Spanish. Following the steps of Decred BR, I am looking forward to expanding DCR presence in all the Spanish speaking countries and grow our community base in Latam.
+
 ### Michae2xl:
 
 Continue producing Weekly Video for Brazilian Community (Youtube Channel) and Continue help Emilio in brazilians channels. 
