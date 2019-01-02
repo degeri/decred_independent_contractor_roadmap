@@ -67,3 +67,11 @@ I will keep doing Politeia Digest for as long as it seems useful, but unless and
 
 The project I am most interested in developing is an information resource/repository about blockchain consensus and governance, making it easier for people to identify, understand, and follow the phenomenon. I have some ideas for how to organize this and what it should look like, but it’s on the back-burner for now and needs some focused attention to figure out what’s likely to work.
 
+### Zubairzia0
+
+My plans for 2019 are:
+outreach - Help to increase presence on Linkedin (and possibly delegate) and grow the Decred community in the Greater Toronto Area (GTA) with Michae2xl. 
+Research - More research articles https://github.com/zubairzia0/Decred-research
+         - Develop a website that displays Security spend alongside other analytics
+Development Repos - I have been helping make the user facing Docs more accurate and visual. Will continue to do more of this in 2019. I                     also plan to help out in other repos in 2019.
+Organization - I want to put together my own team of contractors to help on the above. 
