@@ -25,6 +25,14 @@ My main contribution to Decred in the past 6 months has been organizing meetups 
 
 2019 will be a great year to continue expanding Decred outreach in Mexico and Latam. There are already plans for the next 3 meetups in Mexico City for January, February, and March. In April we will have an expo booth in Talent Land 2019, the biggest tech expo in Mexico and Latam where we are expecting to show the project to more than 33k attendees. I have started conversations with 5 exchanges in Latam in order to have DCR listed this year against MXN, ARS, CLP, and COP. I will continue managing the twitter account @Decred_MX (https://twitter.com/decred_mx) and the Medium Decred en Español (https://medium.com/@decred_es), for fundamental readings and information of Decred in Spanish. Following the steps of Decred BR, I am looking forward to expanding DCR presence in all the Spanish speaking countries and grow our community base in Latam.
 
+### Guang: 
+
+I look forward to contribute to expanding DCR presence in Asia with focus around Southeast Asia and China. I see my role in 2019 be mainly around below 
+
+Contents : Making Decred related contents more accessible to the community, include but not limiting to translating, writing, collaborating with Decred supporters, manage social media. 
+
+Events : Meetups/events in the region, attending events/meetups, identifying (potential) Decred supporters, collaboration on events / meetups 
+
 ### Michae2xl:
 
 Continue producing Weekly Video for Brazilian Community (Youtube Channel) and Continue help Emilio in brazilians channels. 
