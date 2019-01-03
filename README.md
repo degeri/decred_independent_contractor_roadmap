@@ -19,6 +19,11 @@ The [Bug bounty proposal](https://proposals.decred.org/proposals/d33a2667469b569
 
 I will also continue helping out the community wherever possible both offline and online. :slightly_smiling_face: 
 
+### Dustorf:
+
+As Marketing Lead, my goal for 2019 at Decred is to generate a consensus on the positioning and messaging, then implement tactics that cultivate the community and project its message. I recently released a blog detailing the hiring of Ditto (https://medium.com/decred/pr-in-politeia-process-progress-and-pitching-in-d88771183dd4), a public relations firm, and we've begun work on messaging. Once this is set, we'll build out the website to reflect the new messaging and add content that offers a deeper dive into Decred without the need to review the docs. I'll present a proposal in the near future that details my plan including budget for the ongoing communications that will include video production and event presence/participation that will build upon Decred's strengths and extend it to new geographies. First the building blocks, then the funnel, then the message projection to drive new users into the funnel.
+
+
 ### elian:
 
 My main contribution to Decred in the past 6 months has been organizing meetups for the crypto community in Mexico, connecting with exchanges in Latam and translating basic content for the Spanish speaking audience.
@@ -75,7 +80,7 @@ I will keep doing Politeia Digest for as long as it seems useful, but unless and
 
 The project I am most interested in developing is an information resource/repository about blockchain consensus and governance, making it easier for people to identify, understand, and follow the phenomenon. I have some ideas for how to organize this and what it should look like, but it’s on the back-burner for now and needs some focused attention to figure out what’s likely to work.
 
-### Zubairzia0
+### Zubairzia0:
 
 My plans for 2019 are:
 outreach - Help to increase presence on Linkedin (and possibly delegate) and grow the Decred community in the Greater Toronto Area (GTA) with Michae2xl. 
