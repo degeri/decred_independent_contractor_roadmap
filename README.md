@@ -38,6 +38,22 @@ Contents : Making Decred related contents more accessible to the community, incl
 
 Events : Meetups/events in the region, attending events/meetups, identifying (potential) Decred supporters, collaboration on events / meetups 
 
+### Insaf:
+
+In the order to make the Decred project more known in the Arabic world and grow the community my plans are:
+
+ *To contribute more in the social media by writing and translating the main articles about Decred so it can reach a large number of the Arabic crypto members.
+ 
+ *To contact more startups intetested in crypto and Blockchain
+ 
+ *Continue supporting newcomers so they can understand well Decred
+ 
+ *Create a site web that contain all the informations about Decred in Arabic
+ 
+ *To do and participate in more meetups/events locally and in other Arabic countries to expand the decred project in the North Africa and the Middle East.
+ 
+ *To continue managing the twitter account (https://twitter.com/DecredArabia) and the facebook account (https://www.facebook.com/Decred-Arabia-1836611206375151/)
+
 ### Michae2xl:
 
 Continue producing Weekly Video for Brazilian Community (Youtube Channel) and Continue help Emilio in brazilians channels. 
