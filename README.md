@@ -38,6 +38,18 @@ Contents : Making Decred related contents more accessible to the community, incl
 
 Events : Meetups/events in the region, attending events/meetups, identifying (potential) Decred supporters, collaboration on events / meetups 
 
+### Haon:
+
+The past year I've been busy with many different things. Most notably: 
+
+* I have set up and established Decred's precence on several social media platforms.
+* I have written, reviewed and published multiple articles via the [Decred Publication](https://medium.com/decred). 
+* I have onboarded new contractors in the marketing, community and stategy fields. 
+* I have negotiated DCR listings with (major) exchanges worldwide.
+* I have represented Decred at conferences throughout Europe.
+
+In 2019 my focus will be on the long term vision and strategy. I will work with new and existing contractors to make Decred one of the 5 biggest digital Store-of-Value projects. I will keep writing articles and remain available for daily operations.
+
 ### Insaf:
 
 In the order to make the Decred project more known in the Arabic world and grow the community my plans are:
