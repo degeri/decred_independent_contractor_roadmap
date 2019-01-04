@@ -19,6 +19,27 @@ The [Bug bounty proposal](https://proposals.decred.org/proposals/d33a2667469b569
 
 I will also continue helping out the community wherever possible both offline and online. :slightly_smiling_face: 
 
+### dnldd:
+
+
+My focus is currently on putting out a v1 of the decred mining pool 
+implementation I have been working on as well as improving work delivery options
+ for dcrd. With regards to the mining pool, quite a bit has already been done, the 
+outstanding tasks are implementing stratum protocol, full cycle tests on simnet 
+with chain reorgs, and support for all dcrd ASICS released so far.
+
+Currently dcrd requires polling for available work. Knowing the mining pool 
+will need more efficient ways of getting available work I have been working with
+ davecgh on allowing clients to subscribe for work notifications via a new 
+ rpc (notifywork).
+This is close to completion as well but requires a lot of testing due to 
+modifications it makes. We also plan to fix issues with the current 
+getblocktemplate implementation and reenable it.
+
+I also have a couple outstanding dcrwallet tasks that should update and reenable
+tests.
+
+
 ### Dustorf:
 
 As Marketing Lead, my goal for 2019 at Decred is to generate a consensus on the positioning and messaging, then implement tactics that cultivate the community and project its message. I recently released a blog detailing the hiring of Ditto (https://medium.com/decred/pr-in-politeia-process-progress-and-pitching-in-d88771183dd4), a public relations firm, and we've begun work on messaging. Once this is set, we'll build out the website to reflect the new messaging and add content that offers a deeper dive into Decred without the need to review the docs. I'll present a proposal in the near future that details my plan including budget for the ongoing communications that will include video production and event presence/participation that will build upon Decred's strengths and extend it to new geographies. First the building blocks, then the funnel, then the message projection to drive new users into the funnel.
