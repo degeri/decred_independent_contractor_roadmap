@@ -96,6 +96,16 @@ I will keep doing Politeia Digest for as long as it seems useful, but unless and
 
 The project I am most interested in developing is an information resource/repository about blockchain consensus and governance, making it easier for people to identify, understand, and follow the phenomenon. I have some ideas for how to organize this and what it should look like, but it’s on the back-burner for now and needs some focused attention to figure out what’s likely to work.
 
+### s_ben
+
+My general plan is to continue focusing on technical documentation, while exploring opportunities to contribute code and analysis. 
+
+On the docs front, I plan to continue interfacing with developers and porting relevant technical knowledge to dcrdocs. At some point, if there's enough demand (and content), I plan to finish work begun by other contributors on a separate Decred Developer Documentation site. 
+
+On the coding front, I'm currently collaborating with @degeri on the ["Decred git/contributor analysis"](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/34) project, a Decred Open Source Research initiative. I'm finding all the research ideas pitched so far generally fascinating, and will be looking for further opportunities to collaborate there. I'm also learning golang. My plan is to start with small tasks on Politeia and other go repos, learning by doing. If that goes well, will explore the possibility of contributing more substantially and billing for it. 
+
+As I'm relatively new, I also expect to find other opportunities as the year progresses. I'm particularly interested in how the DAE evolves, Politeia, internal systems for processing information, recruiting, and DCR markets. 
+
 ### Zubairzia0:
 
 My plans for 2019 are:
