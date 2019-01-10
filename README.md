@@ -118,16 +118,15 @@ Global (test) - https://twitter.com/decredexplorer
 
 Was really good in 2018, In 2019 I hope help more.
 
-
 ### richardred:
 
-My own Decred-related plans for 2019 involve more of the same kind of thing I’ve been doing in 2018, following along and looking for useful ways I can contribute. It’s a dynamic project and I wouldn’t want to guess what that will involve past February or March. I’m not alone in thinking that growing the contributor-base with talented people is one of the main priorities though.
+More of the same, and maybe some new things.
+- [Politeia Digest](https://medium.com/politeia-digest): No longer on a weekly schedule, but regular updates in the same kind of format. It would be nice to automate some of the more mundane aspects.
+- [Research program](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb): I'm looking forward to spending more time on this in 2019. There are some interesting projects being discussed - you can comment and use your Pi up/down comment votes to indicate which projects/ideas you would like to see progressing.
+- [Writing projects](https://medium.com/@richardred): My New Year's resolution is to try and make these shorter and more focused.
+- Helping out with whatever seems useful.
 
-The research program is developing nicely, there are plenty of good ideas and they’re slowly developing — nobody is in a rush.
-
-I will keep doing Politeia Digest for as long as it seems useful, but unless and until the pace of proposals picks up again I will publish it on a more ad hoc timeframe. In other words whenever something interesting happens. There were times when I felt pressure to finish and publish an issue in a certain timeframe (all self-inflicted) while busy with other things, and that made it less enjoyable to work on. It gave me some insight into why the developers on the team prefer not to work towards target dates — total buzz-kill.
-
-The project I am most interested in developing is an information resource/repository about blockchain consensus and governance, making it easier for people to identify, understand, and follow the phenomenon. I have some ideas for how to organize this and what it should look like, but it’s on the back-burner for now and needs some focused attention to figure out what’s likely to work.
+I described my experience of working on Decred and plans for 2019 in more detail in [this blog post](https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa). I think 2019 is going to be an exciting year for Decred, feels like the project is really starting to gain momentum in a number of areas now.
 
 ### s_ben
 
