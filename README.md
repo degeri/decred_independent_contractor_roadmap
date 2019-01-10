@@ -1,8 +1,16 @@
 # Decred Independent Contractor Roadmap
 
-[WRITE ABOUT, 1. Why this roadmap, 2.Explain this is not a full list, 3. People are not bound to what they say here, 4. How community can provide feedback]
+It is difficult for a decentralized project to answer the age-old question: When roadmap? Writing a roadmap is a task for a central coordinator or authority that decides what the plan is. Previous editions of the Decred roadmap were really the Company0 roadmap for Decred, but we have reached a degree of decentralization where this no longer makes sense. Company0 no longer accounts for the majority of development work, and is barely represented in some domains.
 
+Politeia has taken over as the place where Decred's global roadmap is iterated, but it doesn't provide an accessible summary of what the plan for Decred in the near future is.
 
+The concept of a roadmap still makes sense for individual contractors, both corporate and independent. Individuals have the autonomy to plan for the year and make those plans known, should they choose to.
+
+A number of independent contractors thought it would be useful to produce a shared roadmap document where we each have a space to talk about our plans. Here it is.
+
+Participation was voluntary, so this is not an exhaustive list of contractors, just the people who felt like writing something.
+
+This should be considered a non-binding document, people change their minds sometimes.
 
 ### bee:
 
@@ -76,15 +84,15 @@ In 2019 my focus will be on the long term vision and strategy. I will work with 
 In the order to make the Decred project more known in the Arabic world and grow the community my plans are:
 
  * To contribute more in the social media by writing and translating the main articles about Decred so it can reach a large number of the Arabic crypto members.
- 
+
  * To contact more startups intetested in crypto and Blockchain
- 
+
  * Continue supporting newcomers so they can understand well Decred
- 
+
  * Create a site web that contain all the informations about Decred in Arabic
- 
+
  * To do and participate in more meetups/events locally and in other Arabic countries to expand the decred project in the North Africa and the Middle East.
- 
+
  * To continue managing the twitter account (https://twitter.com/DecredArabia) and the facebook account (https://www.facebook.com/Decred-Arabia-1836611206375151/)
 
 ### Michae2xl:
