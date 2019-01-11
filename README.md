@@ -25,23 +25,23 @@ There is joint research and development ["Decred git/contributor analysis"](http
 
 The [Bug bounty proposal](https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1) that I put up has passed, I expect this will take up the bulk of my time Q1 of 2019 as we work out any hitches in the rules, scope, methodology etc. After that I will start working on a bug bounty website (for submission, triage, work allocation etc) based on Politeia. I will NOT be billing for this work. The plan to get it built up to a POC stage first before I ask the community for funding and extra hands via a Proposal.
 
-I will also continue helping out the community wherever possible both offline and online. :slightly_smiling_face: 
+I will also continue helping out the community wherever possible both offline and online. :slightly_smiling_face:
 
 ### dnldd:
 
 
-My focus is currently on putting out a v1 of the decred mining pool 
+My focus is currently on putting out a v1 of the decred mining pool
 implementation I have been working on as well as improving work delivery options
- for dcrd. With regards to the mining pool, quite a bit has already been done, the 
-outstanding tasks are implementing stratum protocol, full cycle tests on simnet 
+ for dcrd. With regards to the mining pool, quite a bit has already been done, the
+outstanding tasks are implementing stratum protocol, full cycle tests on simnet
 with chain reorgs, and support for all dcrd ASICS released so far.
 
-Currently dcrd requires polling for available work. Knowing the mining pool 
+Currently dcrd requires polling for available work. Knowing the mining pool
 will need more efficient ways of getting available work I have been working with
- davecgh on allowing clients to subscribe for work notifications via a new 
+ davecgh on allowing clients to subscribe for work notifications via a new
  rpc (notifywork).
-This is close to completion as well but requires a lot of testing due to 
-modifications it makes. We also plan to fix issues with the current 
+This is close to completion as well but requires a lot of testing due to
+modifications it makes. We also plan to fix issues with the current
 getblocktemplate implementation and reenable it.
 
 I also have a couple outstanding dcrwallet tasks that should update and reenable
@@ -59,21 +59,21 @@ My main contribution to Decred in the past 6 months has been organizing meetups 
 
 2019 will be a great year to continue expanding Decred outreach in Mexico and Latam. There are already plans for the next 3 meetups in Mexico City for January, February, and March. In April we will have an expo booth in Talent Land 2019, the biggest tech expo in Mexico and Latam where we are expecting to show the project to more than 33k attendees. I have started conversations with 5 exchanges in Latam in order to have DCR listed this year against MXN, ARS, CLP, and COP. I will continue managing the twitter account @Decred_MX (https://twitter.com/decred_mx) and the Medium Decred en Español (https://medium.com/@decred_es), for fundamental readings and information of Decred in Spanish. Following the steps of Decred BR, I am looking forward to expanding DCR presence in all the Spanish speaking countries and grow our community base in Latam.
 
-### Guang: 
+### Guang:
 
-I look forward to contribute to expanding DCR presence in Asia with focus around Southeast Asia and China. I see my role in 2019 be mainly around below 
+I look forward to contribute to expanding DCR presence in Asia with focus around Southeast Asia and China. I see my role in 2019 be mainly around below
 
-Contents : Making Decred related contents more accessible to the community, include but not limiting to translating, writing, collaborating with Decred supporters, manage social media. 
+Contents : Making Decred related contents more accessible to the community, include but not limiting to translating, writing, collaborating with Decred supporters, manage social media.
 
-Events : Meetups/events in the region, attending events/meetups, identifying (potential) Decred supporters, collaboration on events / meetups 
+Events : Meetups/events in the region, attending events/meetups, identifying (potential) Decred supporters, collaboration on events / meetups
 
 ### Haon:
 
-The past year I've been busy with many different things. Most notably: 
+The past year I've been busy with many different things. Most notably:
 
 * I have set up and established Decred's precence on several social media platforms.
-* I have written, reviewed and published multiple articles via the [Decred Publication](https://medium.com/decred). 
-* I have onboarded new contractors in the marketing, community and stategy fields. 
+* I have written, reviewed and published multiple articles via the [Decred Publication](https://medium.com/decred).
+* I have onboarded new contractors in the marketing, community and stategy fields.
 * I have negotiated DCR listings with (major) exchanges worldwide.
 * I have represented Decred at conferences throughout Europe.
 
@@ -95,9 +95,23 @@ In the order to make the Decred project more known in the Arabic world and grow 
 
  * To continue managing the twitter account (https://twitter.com/DecredArabia) and the facebook account (https://www.facebook.com/Decred-Arabia-1836611206375151/)
 
+### kozel:
+
+2019 is a period of time where I intend to step my game up and keep contributing in areas I've been involved in up to this point, namely meetups, writing, translation and outreach, and education, but ideally also branch out to something like video production.
+
+**Meetups:** My intention is to raise awareness of the project in my region, which is quite crypto-aware, and bring more talented, like-minded people like users, investors, and developers into the fold. The goal is to develop working relationships with people and institutions willing to give us a speaking platform and educate those interested through meetups, conferences, and more technically-oriented Decred presentations. The ideal outcome of activity in this field would be a susiatned meetup presence at various local meetups and get-togethers throughout the country.
+
+**Writing and Education:** Decred never ceases to amaze me and it is this wonder and fascination with its fundamentals and propositions that I wish to communicate, to the best of my ability, [through writing](https://medium.com/@artikozel), hoping that in so doing some of it will rub off on people who will likewise become enchanted by its elegant complexity. I will try to develop original and interesting angles through which the Decred proposition can be communicated, and continue existing ones, like the Decred Infrastructure Interviews once interesting partners reveal themselves. Needless to say, this goes together with reaching out to potential new partners such as crypto news outlets and crypto websites and magazines to increase exposure and provide constant and reliable presence in the local crypto media space.
+
+**Outreach:** The ambitious though nebulous plan is to try and attract local players, like institutions, exchanges, businesses, etc., to Decred, partly through, possibly, striking up relationships by maintaining meetup and conference presence but also through pro-active outreach. This will also be attempted through the use and maintenance of local social media platforms and account such as the [Decred_PL twitter account](https://twitter.com/Decred_PL) and [Decred Polska Facebook page](https://www.facebook.com/DecredPolska/), now still in its infancy. Depending on time limitations this may be expanded to more participation in local crypto forums and message boards.
+
+I also intend to keep making [Stakey plushies](https://twitter.com/Decred_PL/status/1022414426983432193) like [these](https://twitter.com/Decred_MX/status/1030119382280749056) for the community to enjoy.
+
+It goes without saying that this is not an exhaustive list; it is subject to change and expand as new opportunities to benefit Decred emerge.
+
 ### Michae2xl:
 
-Continue producing Weekly Video for Brazilian Community (Youtube Channel) and Continue help Emilio in brazilians channels. 
+Continue producing Weekly Video for Brazilian Community (Youtube Channel) and Continue help Emilio in brazilians channels.
 Continue supporting newcomers (BR,CA).
 More Meetups in 2019 in Canada-Toronto and if as possible support in Brazil as well.
 Building an organic community in Canada, partners, markets and continue helping out the every Decred community (offline, online and in person as well).
@@ -105,24 +119,24 @@ Building an organic community in Canada, partners, markets and continue helping 
 Continue manage all media's below and anothers channels as possible to help, improves contents, to use key words (suggetions that I saw in channels), bring more connections like volunteers, devs, holders, so they can help us to growth our community and network (natural process).
 
 
-BR - https://www.instagram.com/decredbr/ 
+BR - https://www.instagram.com/decredbr/
 
-BR - https://twitter.com/decred_br	
+BR - https://twitter.com/decred_br
 
-BR - https://www.meetup.com/pt-BR/DecredBrasil/ 
+BR - https://www.meetup.com/pt-BR/DecredBrasil/
 
-BR - https://www.youtube.com/c/DecredBrasilOficial	
+BR - https://www.youtube.com/c/DecredBrasilOficial
 
 BR (as admin with support) - https://t.me/decredbr
 
-CA - https://twitter.com/decred_ca	
+CA - https://twitter.com/decred_ca
 
-CA - https://www.meetup.com/Decred-GTA/ 
+CA - https://www.meetup.com/Decred-GTA/
 
-CA - https://www.facebook.com/groups/503331090141062/ 
+CA - https://www.facebook.com/groups/503331090141062/
 
 CA - (I have the permission to publish articles about Decred in crypto portal) - https://cryptocanucks.com/
-Global (test) - https://twitter.com/decredexplorer 
+Global (test) - https://twitter.com/decredexplorer
 
 Was really good in 2018, In 2019 I hope help more.
 
@@ -138,19 +152,19 @@ I described my experience of working on Decred and plans for 2019 in more detail
 
 ### s_ben
 
-My general plan is to continue focusing on technical documentation, while exploring opportunities to contribute code and analysis. 
+My general plan is to continue focusing on technical documentation, while exploring opportunities to contribute code and analysis.
 
-On the docs front, I plan to continue interfacing with developers and porting relevant technical knowledge to dcrdocs. At some point, if there's enough demand (and content), I plan to finish work begun by other contributors on a separate Decred Developer Documentation site. 
+On the docs front, I plan to continue interfacing with developers and porting relevant technical knowledge to dcrdocs. At some point, if there's enough demand (and content), I plan to finish work begun by other contributors on a separate Decred Developer Documentation site.
 
-On the coding front, I'm currently collaborating with @degeri on the ["Decred git/contributor analysis"](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/34) project, a Decred Open Source Research initiative. I'm finding all the research ideas pitched so far generally fascinating, and will be looking for further opportunities to collaborate there. I'm also learning golang. My plan is to start with small tasks on Politeia and other go repos, learning by doing. If that goes well, will explore the possibility of contributing more substantially and billing for it. 
+On the coding front, I'm currently collaborating with @degeri on the ["Decred git/contributor analysis"](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/34) project, a Decred Open Source Research initiative. I'm finding all the research ideas pitched so far generally fascinating, and will be looking for further opportunities to collaborate there. I'm also learning golang. My plan is to start with small tasks on Politeia and other go repos, learning by doing. If that goes well, will explore the possibility of contributing more substantially and billing for it.
 
-As I'm relatively new, I also expect to find other opportunities as the year progresses. I'm particularly interested in how the DAE evolves, Politeia, internal systems for processing information, recruiting, and DCR markets. 
+As I'm relatively new, I also expect to find other opportunities as the year progresses. I'm particularly interested in how the DAE evolves, Politeia, internal systems for processing information, recruiting, and DCR markets.
 
 ### Zubairzia0:
 
 My plans for 2019 are:
-outreach - Help to increase presence on Linkedin (and possibly delegate) and grow the Decred community in the Greater Toronto Area (GTA) with Michae2xl. 
+outreach - Help to increase presence on Linkedin (and possibly delegate) and grow the Decred community in the Greater Toronto Area (GTA) with Michae2xl.
 Research - More research articles https://github.com/zubairzia0/Decred-research
          - Develop a website that displays Security spend alongside other analytics
 Development Repos - I have been helping make the user facing Docs more accurate and visual. Will continue to do more of this in 2019. I                     also plan to help out in other repos in 2019.
-Organization - I want to put together my own team of contractors to help on the above. 
+Organization - I want to put together my own team of contractors to help on the above.
