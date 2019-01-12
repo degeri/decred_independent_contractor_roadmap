@@ -23,9 +23,11 @@ I started contributing to Decred 2018 and the response from the community has be
 
 There is joint research and development ["Decred git/contributor analysis"](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/34) work that is being done by both me and @s_ben.
 
-The [Bug bounty proposal](https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1) that I put up has passed, I expect this will take up the bulk of my time Q1 of 2019 as we work out any hitches in the rules, scope, methodology etc. After that I will start working on a bug bounty website (for submission, triage, work allocation etc) based on Politeia. I will NOT be billing for this work. The plan to get it built up to a POC stage first before I ask the community for funding and extra hands via a Proposal.
+The [Bug bounty proposal](https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1) that I put up has passed, I expect this will take up the bulk of my time Q1 of 2019 as we work out any hitches in the rules, scope, methodology etc. 
 
-I will also continue helping out the community wherever possible both offline and online. :slightly_smiling_face:
+After that I will use the knowledge gained from running the program to start working on a bug bounty website (for submission, triage, work allocation etc) based on Politeia. I will NOT be billing the project for this work. The plan to get it built up to a POC stage first before I ask the community for funding and extra hands via a Proposal.
+
+I will also continue helping out the community wherever possible both offline and online.
 
 ### dnldd:
 
