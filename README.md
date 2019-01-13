@@ -172,4 +172,5 @@ Development Repos - I have been helping make the user facing Docs more accurate 
 Organization - I want to put together my own team of contractors to help on the above.
 
 
-Note: All of the plans above was given by the individual contractors and no editing was done, hence there is a difference in writing styles. Shout-out to richardred for writing the introduction and Heon for the cool roadmap image.
+#### Note:
+All of the plans above was given by the individual contractors and no editing was done, hence there is a difference in writing styles. Shout-out to richardred for writing the introduction and Heon for the cool roadmap image.
