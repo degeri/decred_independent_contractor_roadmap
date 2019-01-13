@@ -29,6 +29,16 @@ After that I will use the knowledge gained from running the program to start wor
 
 I will also continue helping out the community wherever possible both offline and online.
 
+### dezryth:
+
+As an Event Support and Social Media Marketing contractor, my job is to make sure to stay on message with Decred's team of independent contractors and the community at large. I've been with the team since October of 2017, helping shape the Facebook page and develop verbiage for our social media posts on various platforms. Beyond the digital front, I have contributed at many events, including Consensus and Texas Bitcoin Conference. Bringing new users to the fold by having the ability to speak passionately and knowledgeably on a subject is essential to our marketing efforts.
+
+In 2019, I intend to increase public appearances at local cryptocurrency meetups to spread awareness and tighten my public speaking abilities. I aim to ramp up assistance with social media marketing efforts to get in front of more eyes more often, and more effectively.
+
+As an entry-level software developer outside of the project, I also intend to focus much more attention to the technical details of our developers discussions and implementations within our code base. This will allow me to better communicate with engineer-minded individuals on the technical details of our project and our team's accomplishments.
+
+In 2019, I hope to strengthen relationships with the team/community and offer support to the best of my ability. Anyone may feel free to contact me for questions on any of our platforms.
+
 ### dnldd:
 
 
