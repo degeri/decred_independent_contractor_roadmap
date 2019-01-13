@@ -170,3 +170,6 @@ Research - More research articles https://github.com/zubairzia0/Decred-research
          - Develop a website that displays Security spend alongside other analytics
 Development Repos - I have been helping make the user facing Docs more accurate and visual. Will continue to do more of this in 2019. I                     also plan to help out in other repos in 2019.
 Organization - I want to put together my own team of contractors to help on the above.
+
+
+Note: All of the plans above was given by the individual contractors and no editing was done, hence there is a difference in writing styles. Shout-out to richardred for writing the introduction and Heon for the cool roadmap image.
