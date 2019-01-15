@@ -152,6 +152,27 @@ Global (test) - https://twitter.com/decredexplorer
 
 Was really good in 2018, In 2019 I hope help more.
 
+### oregonisaac:
+
+In 2019 I plan to continue my contribution as moderator in the Telegram communities for Decred.  Par for the course in the Decred community, our Telegram group largely breaks the mold for cryptocurrency Telegram communities in a few ways:
+- We have little to no price, moon, lambo discussion.
+- Our group is new user friendly.
+- We have NEVER added a member to our group.
+- Our moderation system is decentralized with 12 members who can review the actions of other moderators to ensure integrity.
+- We kick bots and bad actors to support a safer environment (most groups keep them to inflate numbers).
+
+Starting late 2018 I began a research project into the cryptocurrency ATMs on the market today to determine the best fit for Decred. I hope to complete the project in 2019.  The remain steps are:
+- Publish the results of the effort for the community.
+- Determine the best resources to support an integration effort.
+- Discuss the project in the Proposals group in Matrix to confirm at least some community support.
+- Launch a proposal on Politeia for community support/funding of the project.
+- Manage the relationship with the selected ATM provider and publish updates on the work while in progress.
+- Assist in coordination of a jointly marketed ATM launch.
+
+I was invited to give my first Decred talk at a Seattle conference last fall and I am available for additional talks/invites in 2019 and will be seeking out those opportunities. I enjoyed meeting team members of other projects, investors, and enthusiastic community.  Decred is also a very easy project to talk about because of the very high level of integrity. There are no subjects to avoid or areas to gloss over.
+
+Finally I am looking forward to contributing to the expansion of the DCC (Decred Contractor Clearance) project which is currently in development.  As a moderator I’m excited to do what I can to support a structured and scalable environment that supports existing and new moderators and contributors in this novel decentralized space.
+
 ### richardred:
 
 More of the same, and maybe some new things.
@@ -181,26 +202,6 @@ Research - More research articles https://github.com/zubairzia0/Decred-research
 Development Repos - I have been helping make the user facing Docs more accurate and visual. Will continue to do more of this in 2019. I                     also plan to help out in other repos in 2019.
 Organization - I want to put together my own team of contractors to help on the above.
 
-### oregonisaac:
-
-In 2019 I plan to continue my contribution as moderator in the Telegram communities for Decred.  Par for the course in the Decred community, our Telegram group largely breaks the mold for cryptocurrency Telegram communities in a few ways:
-- We have little to no price, moon, lambo discussion.
-- Our group is new user friendly.
-- We have NEVER added a member to our group.
-- Our moderation system is decentralized with 12 members who can review the actions of other moderators to ensure integrity.
-- We kick bots and bad actors to support a safer environment (most groups keep them to inflate numbers).
-
-Starting late 2018 I began a research project into the cryptocurrency ATMs on the market today to determine the best fit for Decred. I hope to complete the project in 2019.  The remain steps are:
-- Publish the results of the effort for the community.
-- Determine the best resources to support an integration effort.
-- Discuss the project in the Proposals group in Matrix to confirm at least some community support.
-- Launch a proposal on Politeia for community support/funding of the project.
-- Manage the relationship with the selected ATM provider and publish updates on the work while in progress.
-- Assist in coordination of a jointly marketed ATM launch.
-
-I was invited to give my first Decred talk at a Seattle conference last fall and I am available for additional talks/invites in 2019 and will be seeking out those opportunities. I enjoyed meeting team members of other projects, investors, and enthusiastic community.  Decred is also a very easy project to talk about because of the very high level of integrity. There are no subjects to avoid or areas to gloss over.
-
-Finally I am looking forward to contributing to the expansion of the DCC (Decred Contractor Clearance) project which is currently in development.  As a moderator I’m excited to do what I can to support a structured and scalable environment that supports existing and new moderators and contributors in this novel decentralized space.
 
 #### Note:
 All of the plans above was given by the individual contractors and no editing was done, hence there is a difference in writing styles. Shout-out to richardred for writing the introduction and Haon for the cool roadmap image.
